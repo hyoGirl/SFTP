@@ -138,11 +138,11 @@
 		
 		
 		<!-- Jackson Json处理工具包 -->
-		<dependency>
+<!-- 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>2.4.2</version>
-		</dependency>
+		</dependency> -->
 		
 		<!-- junit测试 -->
 		<dependency>
